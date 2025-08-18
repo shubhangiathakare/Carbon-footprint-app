@@ -1,4 +1,5 @@
 🌍 Carbon Footprint Calculator
+
 📌 About the Project
 
 The world’s annual carbon footprint has crossed 40+ billion tons 🌍⚠️, driven by daily human activities like transport, energy use, food, and housing. This project helps individuals calculate, understand, and reduce their carbon emissions by providing insights and practical recommendations for a more sustainable lifestyle 🌱.
