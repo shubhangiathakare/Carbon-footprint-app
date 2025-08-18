@@ -36,21 +36,21 @@ all contribute to the surge in CO₂ emissions.
 
 🚀 How It Works
 
-1️⃣ User enters their daily/weekly/monthly activities.
-2️⃣ Backend calculates carbon footprint using ML + data analysis.
-3️⃣ Insights & visualizations are generated 📊.
+1️⃣ User enters their daily/weekly/monthly activities.<br>
+2️⃣ Backend calculates carbon footprint using ML + data analysis.>br>
+3️⃣ Insights & visualizations are generated 📊.<br>
 4️⃣ Recommendations for sustainable living are displayed 🌱.
 
 🎯 Project Goals
 
-1.Raise awareness about individual CO₂ contributions.
-2.Encourage eco-friendly lifestyle changes.
+1.Raise awareness about individual CO₂ contributions.<br>
+2.Encourage eco-friendly lifestyle changes.<br>
 3.Provide a digital tool for sustainability.
 
 📌 Future Scope
 
-✨ Gamification (eco-points & rewards)
-✨ Integration with carbon credits market
-✨ Expansion for SMEs & CSR reporting
+✨ Gamification (eco-points & rewards)<br>
+✨ Integration with carbon credits market.<br>
+✨ Expansion for SMEs & CSR reporting.<br>
 ✨ Policy & community engagement
 
