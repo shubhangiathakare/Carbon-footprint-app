@@ -5,10 +5,10 @@
 The world’s annual carbon footprint has crossed 40+ billion tons 🌍⚠️, driven by daily human activities like transport, energy use, food, and housing. This project helps individuals calculate, understand, and reduce their carbon emissions by providing insights and practical recommendations for a more sustainable lifestyle 🌱.
 
 Everyday activities such as:<br>
-🚗 Transportation
-💡 Energy consumption
-🥗 Food production & consumption
-❄️ Heating & Cooling systems
+🚗 Transportation<br>
+💡 Energy consumption<br>
+🥗 Food production & consumption<br>
+❄️ Heating & Cooling systems<br>
 all contribute to the surge in CO₂ emissions.
 
 👉 This project aims to empower individuals by:
