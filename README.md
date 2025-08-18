@@ -37,7 +37,7 @@ all contribute to the surge in CO₂ emissions.
 🚀 How It Works
 
 1️⃣ User enters their daily/weekly/monthly activities.<br>
-2️⃣ Backend calculates carbon footprint using ML + data analysis.>br>
+2️⃣ Backend calculates carbon footprint using ML + data analysis.<br>
 3️⃣ Insights & visualizations are generated 📊.<br>
 4️⃣ Recommendations for sustainable living are displayed 🌱.
 
