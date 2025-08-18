@@ -13,20 +13,20 @@ all contribute to the surge in CO₂ emissions.
 
 👉 This project aims to empower individuals by:
 
-1.Calculating their daily, weekly, and monthly carbon footprints.
-2.Providing personalized insights into lifestyle habits.
-3.Offering practical recommendations to reduce emissions.
+1.Calculating their daily, weekly, and monthly carbon footprints.<br>
+2.Providing personalized insights into lifestyle habits.<br>
+3.Offering practical recommendations to reduce emissions.<br>
 4.Encouraging sustainable living practices 🌱.
 
 🛠️ Tech Stack
 
 🔹 Backend Development
-📊 Pandas → Data manipulation & analysis
-🔢 NumPy → Numerical operations
-🤖 Scikit-learn → Machine learning models
-🗂️ IO Library → Input/Output handling
-📈 Matplotlib → Data visualization
-🖼️ Pillow → Image processing
+📊 Pandas → Data manipulation & analysis<br>
+🔢 NumPy → Numerical operations<br>
+🤖 Scikit-learn → Machine learning models<br>
+🗂️ IO Library → Input/Output handling<br>
+📈 Matplotlib → Data visualization<br>
+🖼️ Pillow → Image processing<br>
 🔐 Base64 → Encoding & decoding images
 
 🔹 Frontend Development
