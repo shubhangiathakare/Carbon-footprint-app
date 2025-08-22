@@ -9,7 +9,7 @@ body {{
  }}
  
  p {{
-     color: white;  /* Light gray text for better visibility on green */
+     color: black;  /* Light gray text for better visibility on green */
      font-family: "Google Sans",Roboto,Arial,sans-serif;
      font-size: 20px;
  }}
@@ -239,4 +239,5 @@ body {{
      background-repeat: no-repeat;
      display: block;
  }}
+
  
